@@ -69,6 +69,7 @@
     <permission>run_when_backgrounded</permission>
    <permission>access_pimdomain_contacts</permission>
    <permission>access_pimdomain_messages</permission>
+   <permission>access_sms_mms</permission>
    
 
     <!-- Ensure that shared libraries in the package are found at run-time. -->
